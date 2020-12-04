@@ -1,0 +1,2 @@
+ALTER TABLE Planes
+	ALTER COLUMN Engine char(20) NULL;

@@ -1,0 +1,2 @@
+SELECT * FROM Planes2
+	WHERE PlaneID NOT IN (SELECT PlaneID FROM Planes1)

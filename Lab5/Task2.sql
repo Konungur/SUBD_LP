@@ -1,0 +1,2 @@
+SELECT * FROM Planes1
+	WHERE PlaneID IN (SELECT PlaneID FROM Planes2)
