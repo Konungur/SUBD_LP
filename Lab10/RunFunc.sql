@@ -1,0 +1,1 @@
+PRINT dbo.timesTraveld('Poland')

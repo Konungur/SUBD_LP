@@ -1,0 +1,1 @@
+EXEC checkIfRelated @Plane = 34, @Manufacturer = 'Boeing';
