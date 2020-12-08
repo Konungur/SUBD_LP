@@ -1,0 +1,7 @@
+1,"Jhonson","John","Male"
+2,"Tribiani","Joey","Male"
+3,"Geller","Monica","Female"
+4,"Geller","Ross","Male"
+5,"Queen","Elizabett","Female"
+6,"Parker","Peter","Male"
+7,"Johanson","Scarlet","Female"
